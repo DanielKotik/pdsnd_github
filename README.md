@@ -2,7 +2,7 @@
 Created on August 5th, 2020.
 
 ### Project Title
-Replace the Project Title
+Explore Bike Share Data with R.
 
 ### Description
 Describe what your project is about and what it does
