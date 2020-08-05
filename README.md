@@ -5,7 +5,7 @@ Created on August 5th, 2020.
 Explore Bike Share Data with R.
 
 ### Description
-Describe what your project is about and what it does
+The goal of this project is to ask and answer three questions about the available bikeshare data from Washington, Chicago, and New York. These questions are in investigated with R's statistics and visualisation capabilities.
 
 ### Files used
 The project is based on `chicago.csv`, `new_york_city.csv` and `whashington.csv`.
