@@ -1,3 +1,5 @@
+# R script for bikeshare project
+# author: Daniel Kotik
 
 library(ggplot2)
 library(tibble)
