@@ -11,4 +11,6 @@ The goal of this project is to ask and answer three questions about the availabl
 The project is based on `chicago.csv`, `new_york_city.csv` and `whashington.csv`.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/index.html) 
+
+[Data Wrangling with R](https://cengel.github.io/R-data-wrangling/) 
