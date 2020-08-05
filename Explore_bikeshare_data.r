@@ -59,11 +59,9 @@ from.timestamp = function(timestamp, component)
     } else if (component == "mon")
         {
         return(date$mon)
-        #return(months(as.Date(timestamp)))
     } else if (component == "wday")
         {
         return(date$wday)
-        #return(weekdays(as.Date(timestamp)))
     }
 }
 

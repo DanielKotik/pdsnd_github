@@ -1,8 +1,7 @@
+## Bike Share Data Analysis with R
+
 ### Date created
 Created on August 5th, 2020.
-
-### Project Title
-Explore Bike Share Data with R.
 
 ### Description
 The goal of this project is to ask and answer three questions about the available bikeshare data from Washington, Chicago, and New York. These questions are in investigated with R's statistics and visualisation capabilities.
@@ -11,6 +10,6 @@ The goal of this project is to ask and answer three questions about the availabl
 The project is based on `chicago.csv`, `new_york_city.csv` and `whashington.csv`.
 
 ### Credits
-[Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/index.html) 
+[Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/index.html)
 
-[Data Wrangling with R](https://cengel.github.io/R-data-wrangling/) 
+[Data Wrangling with R](https://cengel.github.io/R-data-wrangling/)
